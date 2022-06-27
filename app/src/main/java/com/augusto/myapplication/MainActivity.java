@@ -9,9 +9,6 @@ public class MainActivity extends AppCompatActivity {
 
         private Button buttonTestar1;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
